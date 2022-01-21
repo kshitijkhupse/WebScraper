@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: to define hyperlinks
+- text: to define headlines
+- text: to define paragraphs
+- text: to define quotes
+- text: to define subtitles
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10210#comment
+status: Solved
+record: -1
